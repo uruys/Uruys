@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rûmeysa </h1>
 <h3 align="center">Objectif : Master Neurosciences / Bioinformatique / Ingénierie Biomédicale</h3>
 
-<img src="profile.svg">
+<p align="center">
+  <img src="profile.svg">
+</p>
 
 - 🎓 Formation **Licence 3 Sciences de la Vie**
 
