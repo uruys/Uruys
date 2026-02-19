@@ -2,8 +2,13 @@
 <svg xmlns="http://www.w3.org/2000/svg"
 width="985"
 height="530"
+viewBox="0 0 985 530"
+style="background-color:#161b22;"
 font-family="Consolas, monospace"
 font-size="16">
+
+<!-- FOND NOIR FORCÉ -->
+<rect x="0" y="0" width="985" height="530" fill="#161b22" rx="15"/>
 
 <style>
 .key {fill: #ffa657;}
