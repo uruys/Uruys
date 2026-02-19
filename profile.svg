@@ -17,31 +17,20 @@ text, tspan {white-space: pre;}
 
 
 <!-- TES INFOS -->
-<text x="390" y="30" fill="#c9d1d9">
+<text x="700" y="30" fill="#c9d1d9" text-anchor="middle">
+  <tspan y="30">rumeysa@uruys</tspan>
 
-<tspan x="390" y="30">rumeysa@uruys</tspan>
-<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">macOS, Linux</tspan>
+  <tspan x="700" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">macOS, Linux</tspan>
+  <tspan x="700" y="70" class="cc">. </tspan><tspan class="key">Status</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Life Sciences Student</tspan>
+  <tspan x="700" y="90" class="cc">. </tspan><tspan class="key">University</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">Sorbonne Paris Nord</tspan>
+  <tspan x="700" y="110" class="cc">. </tspan><tspan class="key">Focus</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">Bioinformatics, Neuroscience</tspan>
+  <tspan x="700" y="130" class="cc">. </tspan><tspan class="key">Languages</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">Python, R, SQL, MATLAB, Bash</tspan>
+  <tspan x="700" y="150" class="cc">. </tspan><tspan class="key">Tools</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">DeepLabCut, ImageJ, NumPy, Pandas</tspan>
 
-<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Status</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Life Sciences Student</tspan>
+  <tspan x="700" y="190">- Contact --------------------------------</tspan>
 
-<tspan x="390" y="90" class="cc">. </tspan><tspan class="key">University</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">Sorbonne Paris Nord</tspan>
-
-<tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Focus</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">Bioinformatics, Neuroscience</tspan>
-
-<tspan x="390" y="130" class="cc">. </tspan><tspan class="key">Languages</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">Python, R, SQL, MATLAB, Bash</tspan>
-
-<tspan x="390" y="150" class="cc">. </tspan><tspan class="key">Tools</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">DeepLabCut, ImageJ, NumPy, Pandas</tspan>
-
-<tspan x="390" y="190">- Contact --------------------------------</tspan>
-
-<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">rmysacn@icloud.com</tspan>
-
-<tspan x="390" y="230" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">github.com/uruys</tspan>
-
-<tspan x="390" y="250" class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">France</tspan>
-
-<tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Goal</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">MSc Bioinformatics / Neuroscience</tspan>
-
+  <tspan x="700" y="210" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">rmysacn@icloud.com</tspan>
+  <tspan x="700" y="230" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">github.com/uruys</tspan>
+  <tspan x="700" y="250" class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">France</tspan>
+  <tspan x="700" y="270" class="cc">. </tspan><tspan class="key">Goal</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">MSc Bioinformatics / Neuroscience</tspan>
 </text>
-
-</svg>
