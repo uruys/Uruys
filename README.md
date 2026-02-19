@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Rûmeysa </h1>
-<h3 align="center">Objectif : Master Neurosciences / Bioinformatique / Ingénierie Biomédicale</h3>
 
 <div align="center">
 
