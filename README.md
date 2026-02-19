@@ -1,30 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rûmeysa </h1>
 <h3 align="center">Objectif : Master Neurosciences / Bioinformatique / Ingénierie Biomédicale</h3>
 
-
-<text x="390" y="30" fill="#c9d1d9">
-<tspan x="390" y="30">uruys</tspan>
-<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Linux, Windows 11</tspan>
-<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">Bioinformatics &amp; Neuroscience Student</tspan>
-<tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Focus</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">Computational Neuroscience, Bioinformatics, Data Analysis</tspan>
-<tspan x="390" y="110" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">VSCode, Jupyter Notebook, Spyder</tspan>
-
-<tspan x="390" y="150" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">Python, R, SQL, MATLAB</tspan>
-<tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">HTML, CSS, JSON, YAML, LaTeX</tspan>
-<tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">French, English (C1)</tspan>
-
-<tspan x="390" y="230" class="cc">. </tspan><tspan class="key">Tools</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">Linux, Git, Jupyter, NumPy, Pandas, SciPy</tspan>
-<tspan x="390" y="250" class="cc">. </tspan><tspan class="key">Interests</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">Bioinformatics, Machine Learning, Scientific Computing</tspan>
-
-<tspan x="390" y="290">- Contact ----------------------------------------------------------------</tspan>
-<tspan x="390" y="310" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">rmysacn@icloud.com</tspan>
-<tspan x="390" y="330" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">github.com/uruys</tspan>
-</text>
-
-
-
-
-
+<img src="profile.svg">
 
 - 🎓 Formation **Licence 3 Sciences de la Vie**
 
