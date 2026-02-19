@@ -1,42 +1,36 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="400" font-family="monospace" font-size="16">
-<style>
-.key {fill: #ffa657;}
-.value {fill: #a5d6ff;}
-.cc {fill: #616e7f;}
-text {fill: #c9d1d9;}
-</style>
+<text x="390" y="30" fill="#c9d1d9">
+<tspan x="390" y="30">rumeysa@uruys</tspan> -———————————————————————————————————————————
 
-<rect width="100%" height="100%" fill="#161b22" rx="15"/>
+<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">macOS, Linux</tspan>
 
-<text x="30" y="40">uruys</text>
+<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Status</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">BSc Life Sciences Student</tspan>
 
-<text x="30" y="70">
-<tspan class="cc">. </tspan><tspan class="key">OS</tspan>: <tspan class="value">Linux, Windows 11</tspan>
+<tspan x="390" y="90" class="cc">. </tspan><tspan class="key">University</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Sorbonne Paris Nord</tspan>
+
+<tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Focus</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">Bioinformatics, Computational Neuroscience</tspan>
+
+<tspan x="390" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Jupyter Notebook, VSCode, MATLAB</tspan>
+
+<tspan x="390" y="150" class="cc">. </tspan>
+
+<tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">Python, R, SQL, MATLAB, Bash</tspan>
+
+<tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Scientific</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">NumPy, Pandas, Matplotlib, DeepLabCut</tspan>
+
+<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Tools</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">ImageJ, Fiji, Morpheus, Linux</tspan>
+
+<tspan x="390" y="230" class="cc">. </tspan><tspan class="key">Domains</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">RNA-seq, Neurophysiology, Data Analysis</tspan>
+
+<tspan x="390" y="250" class="cc">. </tspan>
+
+<tspan x="390" y="270">- Contact </tspan>———————————————————————————————————————————————
+
+<tspan x="390" y="290" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">rmysacn@icloud.com</tspan>
+
+<tspan x="390" y="310" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">github.com/uruys</tspan>
+
+<tspan x="390" y="330" class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">France</tspan>
+
+<tspan x="390" y="350" class="cc">. </tspan><tspan class="key">Goal</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">MSc Bioinformatics / Neuroscience</tspan>
+
 </text>
-
-<text x="30" y="100">
-<tspan class="cc">. </tspan><tspan class="key">Role</tspan>: <tspan class="value">Bioinformatics &amp; Neuroscience Student</tspan>
-</text>
-
-<text x="30" y="130">
-<tspan class="cc">. </tspan><tspan class="key">Focus</tspan>: <tspan class="value">Computational Neuroscience, Bioinformatics</tspan>
-</text>
-
-<text x="30" y="160">
-<tspan class="cc">. </tspan><tspan class="key">Languages</tspan>: <tspan class="value">Python, R, SQL, MATLAB</tspan>
-</text>
-
-<text x="30" y="190">
-<tspan class="cc">. </tspan><tspan class="key">Tools</tspan>: <tspan class="value">Linux, Jupyter, NumPy, Pandas, SciPy</tspan>
-</text>
-
-<text x="30" y="220">
-<tspan class="cc">. </tspan><tspan class="key">Email</tspan>: <tspan class="value">rmysacn@icloud.com</tspan>
-</text>
-
-<text x="30" y="250">
-<tspan class="cc">. </tspan><tspan class="key">GitHub</tspan>: <tspan class="value">github.com/uruys</tspan>
-</text>
-
-</svg>
