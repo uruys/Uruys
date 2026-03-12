@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rûmeysa </h1>
 
-<div align="center">
-
-<img src="profile.svg">
-
-</div>
 - 🎓 Formation **Licence 3 Sciences de la Vie**
 
 - Projects **- Projet Biocapteurs & Analyse de données (Python, notebook Jupyter) - Analyse bioinformatique du gène PRDM1 (lupus) - Projet neurosciences : HGF/C-MET et survie cellulaire - Article scientifique : Neurotechnologies & maladie de Parkinson (Neuralink)**
