@@ -8,7 +8,7 @@
 
 - Work **- Licence 3 Sciences de la Vie – Université Sorbonne Paris Nord - Stage de recherche (L1) – Institut des Neurosciences Paris-Saclay - Stage de recherche (L3) – BME Lab, Fondation Hôpital Saint-Joseph - Projets académiques en bioinformatique, neurosciences et biomatériaux**
 
-- Certifications & Formations complémentaires [- Statistiques appliquées aux données scientifiques - SQL & bases de données relationnelles - Machine Learning (fondamentaux) - Bioinformatique - Neurosciences computationnelles - English Advanced – Niveau C1- Machine Learning (certification) - SQL & bases de données relationnelles (certification)](- Statistiques appliquées aux données scientifiques - SQL & bases de données relationnelles - Machine Learning (fondamentaux) - Bioinformatique - Neurosciences computationnelles - English Advanced – Niveau C1- Machine Learning (certification) - SQL & bases de données relationnelles (certification))
+- Certifications & Formations complémentaires [- Statistiques appliquées aux données scientifiques - SQL & bases de données relationnelles - Machine Learning (fondamentaux) - Bioinformatique - Neurosciences computationnelles - English Advanced – Niveau C1- Machine Learning (certification) - SQL & bases de données relationnelles (certification)]
 
 - Outils **- Python - R - SQL - MATLAB - Jupyter Notebook - Linux - Fiji / ImageJ - DeepLabCut**
 
