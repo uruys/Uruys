@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Rûmeysa </h1>
 
-- 🎓 Formation **Licence 3 Sciences de la Vie**
+- 🎓 Formation **Master Bioinformatique, Ingénierie de la Plateforme**
 
-- Projects **- Projet Biocapteurs & Analyse de données (Python, notebook Jupyter) - Analyse bioinformatique du gène PRDM1 (lupus) - Projet neurosciences : HGF/C-MET et survie cellulaire - Article scientifique : Neurotechnologies & maladie de Parkinson (Neuralink)**
+- Projects **
+  - Projet Biocapteurs & Analyse de données (Python, notebook Jupyter)
+  - Analyse bioinformatique du gène PRDM1 (lupus)
+  - Projet Bibliograpgie : HGF/C-MET et survie cellulaire
+  - Article scientifique : Neurotechnologies & maladie de Parkinson (Neuralink)**
 
 - 🧠 Objectif académique **Objectif : Master Neurosciences / Bioinformatique / Ingénierie Biomédicale**
 
