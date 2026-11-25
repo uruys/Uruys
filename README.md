@@ -8,13 +8,15 @@
   - Projet Bibliograpgie : HGF/C-MET et survie cellulaire
   - Article scientifique : Neurotechnologies & maladie de Parkinson (Neuralink)**
 
-- 🧠 Objectif académique **Objectif : Master Neurosciences / Bioinformatique / Ingénierie Biomédicale**
+- Work **
+  - Master Bioinformatique, Ingénierie de la Plateforme - Université Paris Cité
+  - Licence 3 Sciences de la Vie – Université Sorbonne Paris Nord
+  - Stage de recherche (L1) – Institut des Neurosciences Paris-Saclay
+  - Stage de recherche (L3) – BME Lab, Fondation Hôpital Saint-Joseph
+  - Projets académiques en bioinformatique, neurosciences et biomatériaux**
 
-- Work **- Licence 3 Sciences de la Vie – Université Sorbonne Paris Nord - Stage de recherche (L1) – Institut des Neurosciences Paris-Saclay - Stage de recherche (L3) – BME Lab, Fondation Hôpital Saint-Joseph - Projets académiques en bioinformatique, neurosciences et biomatériaux**
 
-- Certifications & Formations complémentaires [- Statistiques appliquées aux données scientifiques - SQL & bases de données relationnelles - Machine Learning (fondamentaux) - Bioinformatique - Neurosciences computationnelles - English Advanced – Niveau C1- Machine Learning (certification) - SQL & bases de données relationnelles (certification)]
-
-- Outils **- Python - R - SQL - MATLAB - Jupyter Notebook - Linux - Fiji / ImageJ - DeepLabCut**
+- Outils **- Python - R - SQL - MATLAB - Jupyter Notebook - Linux - DeepLabCut**
 
 - 📫 How to reach me **rmysacn@icloud.com**
 
